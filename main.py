@@ -22,7 +22,8 @@ origins = [
     "http://localhost:4173",
     "http://localhost:3000",
     "http://localhost:8000",
-    "https://assistant-backend.onrender.com"
+    "https://assistant-backend.onrender.com",
+     "https://assistant-backend.onrender.com/docs"
 ]
 #Cors- Middleware
 app.add_middleware(
