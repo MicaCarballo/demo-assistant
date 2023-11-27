@@ -1,4 +1,6 @@
-#!/Users/micaela/Documents/assistant-demo/backend/venv/bin/python3.12
+#!/bin/sh
+'''exec' "/Users/micaela/Documents/Portfolio Projects/demo-assistant/venv/bin/python3.10" "$0" "$@"
+' '''
 # -*- coding: utf-8 -*-
 import re
 import sys
