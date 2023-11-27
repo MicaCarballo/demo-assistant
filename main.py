@@ -22,7 +22,7 @@ origins = [
     "http://localhost:4173",
     "http://localhost:3000",
     "http://localhost:8000"
-]
+];
 #Cors- Middleware
 app.add_middleware(
     CORSMiddleware,
