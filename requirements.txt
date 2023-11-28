@@ -37,5 +37,5 @@ uvloop==0.17.0
 watchfiles==0.18.1
 websockets==10.4
 yarl==1.8.2
-langchain==0.0.341
+langchain== 0.0.27
 
