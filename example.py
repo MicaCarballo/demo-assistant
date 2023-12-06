@@ -14,9 +14,9 @@ healthcare_data = load_healthcare_data()
 
 # Get a random healthcare message pair
 def get_random_healthcare_message():
-    return random.choice(healthcare_data)
+    return random.choice(healthcare_data);
 
-# Your existing code...
+
 # (Omitted for brevity)
 
 # You might modify get_recent_messages to sometimes use get_random_healthcare_message
